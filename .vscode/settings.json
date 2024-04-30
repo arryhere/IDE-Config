@@ -39,6 +39,12 @@
   "[sql]": {
     "editor.defaultFormatter": "mtxr.sqltools"
   },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
   "python.analysis.typeCheckingMode": "off",
   "rust-analyzer.linkedProjects": [".\\Cargo.toml"],
   "sqltools.format": {
